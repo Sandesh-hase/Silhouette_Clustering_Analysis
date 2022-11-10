@@ -11,8 +11,21 @@ Also from the thickness of the silhouette plot the cluster size can be visualize
 
 ![image](https://user-images.githubusercontent.com/98344033/200975836-88a05e4d-f62e-456c-8672-7fa236bed03a.png)
 
+![image](https://user-images.githubusercontent.com/98344033/200975941-2960de1f-4259-406b-b733-a5adf10f6ddd.png)
+
+![image](https://user-images.githubusercontent.com/98344033/200975969-6993fdc8-2782-4a15-bfec-377395209553.png)
+
+![image](https://user-images.githubusercontent.com/98344033/200975983-60796b5f-36c9-4a24-a1aa-a4d2a3a799d1.png)
+
+![image](https://user-images.githubusercontent.com/98344033/200976001-fa3fd704-5b41-4393-83ba-1f375c118a4f.png)
+
+
 For n_clusters = 2 The average silhouette_score is : 0.7049787496083262
+
 For n_clusters = 3 The average silhouette_score is : 0.5882004012129721
+
 For n_clusters = 4 The average silhouette_score is : 0.6505186632729437
+
 For n_clusters = 5 The average silhouette_score is : 0.56376469026194
+
 For n_clusters = 6 The average silhouette_score is : 0.4504666294372765
